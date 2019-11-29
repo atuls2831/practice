@@ -10,4 +10,4 @@ spec:
     name: rabbitmq
     version: 3.3.6
   values:
-    replicas: 2
+    replicas: 3
